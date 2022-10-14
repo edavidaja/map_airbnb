@@ -1,12 +1,11 @@
+
 ---
-title: Map Airbnb
-emoji: 👁
-colorFrom: red
-colorTo: yellow
+title: map_airbnb 
+emoji: 🔥
+colorFrom: indigo
+colorTo: indigo
 sdk: gradio
 sdk_version: 3.4.1
-app_file: app.py
+app_file: run.py
 pinned: false
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
