@@ -5,7 +5,7 @@ emoji: 🔥
 colorFrom: indigo
 colorTo: indigo
 sdk: gradio
-sdk_version: 3.50.1
+sdk_version: 3.50.2
 app_file: run.py
 pinned: false
 hf_oauth: true
