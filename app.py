@@ -19,7 +19,8 @@ def filter_map(min_price, max_price, boroughs):
             lon=filtered_df['longitude'].tolist(),
             mode='markers',
             marker=go.scattermapbox.Marker(
-                size=6
+                size=6,
+                colorscale='magma'
             ),
             hoverinfo="text",
             hovertemplate='<b>Name</b>: %{customdata[0]}<br><b>Price</b>: $%{customdata[1]}'
