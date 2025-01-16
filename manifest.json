@@ -6,19 +6,19 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.11.12",
+    "version": "3.11.9",
     "package_manager": {
       "name": "pip",
-      "version": "24.2",
+      "version": "24.3.1",
       "package_file": "requirements.txt"
     }
   },
   "files": {
     "requirements.txt": {
-      "checksum": "c5d4a569b0d28fff97cc7a033f7d2916"
+      "checksum": "6ec6e0b3304a40608ac0155d0d0ce563"
     },
     "app.py": {
-      "checksum": "a8afec17bc97eac5fb8f9e9392d9f6ec"
+      "checksum": "5079de6058c5229262d25f7e364bb5f9"
     }
   }
 }

@@ -1,3 +1,4 @@
 plotly
 datasets
-gradio<4
+gradio
+numpy
