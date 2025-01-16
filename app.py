@@ -21,7 +21,7 @@ def filter_map(min_price, max_price, boroughs):
             marker=go.scattermapbox.Marker(
                 size=6,
                 color = prices,
-                colorscale="jet"
+                colorscale="purples"
             ),
             hoverinfo="text",
             hovertemplate='<b>Name</b>: %{customdata[0]}<br><b>Price</b>: $%{customdata[1]}'
